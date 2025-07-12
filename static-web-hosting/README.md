@@ -87,9 +87,3 @@ pulumi config set aws:region us-west-2
  - Open an issue on the template’s repository (if available)
 
  Enjoy building cloud infrastructure with Go and Pulumi!
-
-
-
- # Complete Static Site Infrastructure with Pulumi
-
-A production-ready static site infrastructure built with **Pulumi** and **Go**, featuring S3 hosting, CloudFront CDN, API Gateway reverse proxy, and automatic SSL certificate management.

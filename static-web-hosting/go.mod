@@ -1,4 +1,4 @@
-module static-web-hosting-aws
+module static-web-hosting
 
 go 1.21
 

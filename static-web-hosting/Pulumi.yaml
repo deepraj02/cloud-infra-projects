@@ -1,0 +1,7 @@
+name: static-web-hosting
+description: A static web hositng infra project with pulumi and AWS
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-go
